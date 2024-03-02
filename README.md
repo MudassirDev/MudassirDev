@@ -26,4 +26,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
+# 📊 GitHub Stats:
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MudassirDev&show_icons=true&theme=radical)
