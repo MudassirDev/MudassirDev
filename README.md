@@ -32,4 +32,4 @@ JavaScript, Tailwind CSS, ReactJS and general things about Frontend development.
 
 #
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MudassirDev)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=MudassirDev)](https://github.com/MudassirDev)
