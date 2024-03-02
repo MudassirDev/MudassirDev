@@ -2,13 +2,13 @@
 # 💫 About Me:
 
 👯 I’m looking to collaborate on:<br>
-<sub>Frontend Projects</sub>
+Frontend Projects
 
 🌱 I’m currently learning:<br>
-<sub>Next JS</sub>
+Next JS
 
 💬 Ask me about:<br>
-<sub>JavaScript, Tailwind CSS, ReactJS and general things about Frontend development.</sub>
+JavaScript, Tailwind CSS, ReactJS and general things about Frontend development.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mudassir-bilal-31217b270)
