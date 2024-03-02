@@ -25,3 +25,5 @@
 [![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MudassirDev&show_icons=true&theme=radical)
