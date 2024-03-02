@@ -29,3 +29,7 @@
 # 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MudassirDev&show_icons=true&theme=radical)
+
+#
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MudassirDev)](https://github.com/your-username)
