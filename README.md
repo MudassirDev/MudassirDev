@@ -1,17 +1,15 @@
-[![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,nim,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,vscode,windows,npm,nodejs)](https://skillicons.dev)
 <br>
 
-My favorites are definitely Go, Zig, Nim, Java, and C<br>
-C++, C#, Swift, Python, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
-Lua, Haskell, and JavaScript get an honorable mention
+My current favorite is Go<br>
+The language I have most experience with is JS, did all the shenanigans with it, scrappers, bots and stuff<br>
+Did React to see what the Hype is about, didn't like it<br>
+Learned node and express to try JS outside of browser, didn't like it so I chose GO<br>
+Currently learning backend to build a 2D Multiplayer Game<br>
 
 <br>
 
-**Projects I'm proud of**
-* [Velvet](<https://github.com/voidwyrm-2/velvet-vm>), A JVM- and CLR- like stack-based virtual machine
-* [Ferrite](<https://github.com/voidwyrm-2/ferrite>), A stack-oriented programming language
-* [Distra](<https://github.com/voidwyrm-2/distra>), A tool that makes building Go applications for many different distributions easier
-* [Raisin](<https://github.com/voidwyrm-2/raisin>), A VM-based superset of [Branflakes](<https://en.wikipedia.org/wiki/Brainfuck>)
+My bootdev profile: https://www.boot.dev/u/themudassirbilal
 
 <br>
 
