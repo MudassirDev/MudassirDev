@@ -1,35 +1,25 @@
+[![My Skills](https://skillicons.dev/icons?i=go,cs,rust,swift,ruby,git,py,js,html,css,lua,neovim,vscode,apple,windows,npm,nodejs,idea,c,cpp,zig,java,nim,blender)](https://skillicons.dev)
+<br>
 
-# 💫 About Me:
+My favorites are definitely Go, Zig, Nim, Java, and C<br>
+C++, C#, Swift, Python, and Rust are also somewhere on that list, albeit below the ones I already listed<br>
+Lua, Haskell, and JavaScript get an honorable mention
 
-👯 I’m looking to collaborate on:<br>
-Frontend Projects
+<br>
 
-🌱 I’m currently learning:<br>
-Next JS
+**Projects I'm proud of**
+* [Velvet](<https://github.com/voidwyrm-2/velvet-vm>), A JVM- and CLR- like stack-based virtual machine
+* [Ferrite](<https://github.com/voidwyrm-2/ferrite>), A stack-oriented programming language
+* [Distra](<https://github.com/voidwyrm-2/distra>), A tool that makes building Go applications for many different distributions easier
+* [Raisin](<https://github.com/voidwyrm-2/raisin>), A VM-based superset of [Branflakes](<https://en.wikipedia.org/wiki/Brainfuck>)
 
-💬 Ask me about:<br>
-JavaScript, Tailwind CSS, ReactJS and general things about Frontend development.
+<br>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mudassir-bilal-31217b270)
+I wanna see my language stats<br><br>
+![MudassirDev's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirdev&layout=compact&theme=synthwave&langs_count=20)
 
-# 💻 Tech Stack:
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![React Hooks](https://img.shields.io/badge/React_Hooks-8B62A9?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/hooks-intro.html)
-[![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-# 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MudassirDev&show_icons=true&theme=radical)
-
-#
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MudassirDev)](https://github.com/MudassirDev)
+<p align="left">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+<!--https://github.com/catppuccin-->
