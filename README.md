@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,vscode,windows,npm,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,vscode,linux,npm,nodejs,firebase,react,sqlite)](https://skillicons.dev)
 <br>
 
 My current favorite is Go<br>
