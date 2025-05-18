@@ -3,7 +3,7 @@
 ### About Me
 - **Current favorite language**: Go
 - **Most experienced with**: JavaScript (worked on scrapers, bots, and more)
-- Explored **React** to understand the hype — while it didn’t resonate with me, I’m open to working with it and improving my skills.
+- Building with React to gain more experience.
 - Learned **Node.js** and **Express** to try JS outside of the browser, but ultimately chose **Go** for backend development.
 - Currently learning backend development with a focus on building a **2D Multiplayer Game**.
 
