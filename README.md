@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,vscode,linux,npm,nodejs,firebase,react,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,linux,npm,firebase,react,sqlite)](https://skillicons.dev)
 
 ### About Me
 - **Current favorite language**: Go
