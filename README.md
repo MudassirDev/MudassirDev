@@ -1,11 +1,11 @@
-[![My Skills](https://skillicons.dev/icons?i=go,git,py,js,html,css,neovim,linux,npm,firebase,react,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,py,git,htmx,html,css,tailwind,bootstrap,neovim,linux,npm,firebase,react,sqlite,postgresql,postman,docker,aws,gcp)](https://skillicons.dev)
 
 ### About Me
 - **Current favorite language**: Go
-- **Most experienced with**: JavaScript (worked on scrapers, bots, and more)
-- Building with React to gain more experience.
-- Learned **Node.js** and **Express** to try JS outside of the browser, but ultimately chose **Go** for backend development.
-- Currently learning backend development with a focus on building a **2D Multiplayer Game**.
+- **Most experienced with**: JavaScript
+- Learned React at my previous Job.
+- Currently learning Backend Development.
+- Ricing linux when I am not writing code.
 
 ### Current Streak
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MudassirDev&theme=highcontrast)](https://git.io/streak-stats)
