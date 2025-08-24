@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,go,py,git,htmx,html,css,tailwind,bootstrap,neovim,linux,npm,firebase,react,sqlite,postgresql,postman,docker,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,py,git,htmx,html,css,tailwind,bootstrap,neovim,linux,npm,firebase,react,sqlite,postgresql,postman,docker)](https://skillicons.dev)
 
 ### About Me
 - **Current favorite language**: Go
